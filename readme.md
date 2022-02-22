@@ -18,7 +18,7 @@ TypeScript 是由微软 2012年推出的，自由和开源的编程语言。这�
 
 TypeScript是JavaScript的超集，正式因为她是建立在JavaScript上的一门语言，TypeScript把其他语言的一些精妙的语法带入到JavaScript之中，从而把JS带到一个新的高度，你可以在TS中使用JS之外的扩展语法，同时借助TS对面向对象和静态类型的良好支持，你可以编写更健壮，更可维护的大型项目。本套视频将帮大家从 0 到 1 学习TypeScript。 
 
-## 二、课程介绍
+## 2，课程介绍
 
 本套视频会带着你把官网的知识点和案例都走一遍。在看视频的同时，我还为你整理了详细的视频的文字版，你可以看完视频，对着笔记来练习。
 本套视频共设计四个篇章，基础篇，高级篇，案例篇及项目篇。
@@ -31,16 +31,17 @@ TypeScript是JavaScript的超集，正式因为她是建立在JavaScript上的�
 
 **项目篇**重点介绍TS在Vue、React及Node.js项目中的应用。
 
-## 三、学习前提
+## 3，学习前提
 
 本次发布的基础篇，学习它需要大家对JavaScript 和 ES6语法有一定的应用。
 
-## 四、课程收获
+## 4，课程收获
 
 - 对于TS小白，本视频会循序渐进带你入门TypeScript，对于有一定基础的人，想深入了解TS语法细节，本视频也同样也适合你，可以作为视频版手册查看。
 - 能读懂别人的TS代码
 - 能编写自己的TS代码
 
-![目录（基础篇）](https://s2.loli.net/2022/02/22/PTStulYWrk1phB6.png)
+![目录（基础篇）](https://user-images.githubusercontent.com/17428421/155086179-268dcad9-d6c3-4504-84dc-ea9f38d65943.png)
+-
+![目录（高级篇）](https://user-images.githubusercontent.com/17428421/155086207-0ea578d8-b5ef-4f66-a908-8028517eabf9.png)
 
-![目录（高级篇）](https://s2.loli.net/2022/02/22/M47HhVxprSU5Js6.png)
