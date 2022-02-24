@@ -8,7 +8,9 @@
 >
 > 公众号：大前端私房菜
 >
-> B站账号：https://space.bilibili.com/256505729
+> B站账号：https://space.bilibili.com/146668655
+> 
+>            https://space.bilibili.com/256505729
 
 ![img](https://user-images.githubusercontent.com/17428421/154911635-a97dfd07-b837-4c59-8bab-ca27eda62c74.png)
 
